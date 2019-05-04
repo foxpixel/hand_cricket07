@@ -1,3 +1,4 @@
+import toss
 import random as random
 score = []
 overs = int(input("enter no. of overs"))
