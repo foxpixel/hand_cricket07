@@ -11,8 +11,3 @@ for i in range(overs*6):
     else:
         break
 print(score)
-
-#print("A random number from range is : ")
-#print(random.randrange(0, 6, 1))
-#import sys
-#sys.exit("Error message")
